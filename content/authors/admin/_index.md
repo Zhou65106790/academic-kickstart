@@ -27,13 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Renmin University of China
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Master of Industrial Economics
     institution: Renmin University of China
     year: 2019
-  - course: BSc in Artificial Intelligence
+  - course: Bachelor of Trade and Economics
     institution: Renmin University of China
     year: 2016
 
