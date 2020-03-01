@@ -1,5 +1,6 @@
 ---
-title: Publications
+title: Consumer Heterogeneity and Online vs. Offline Retail Spatial Competition
+
 
 # View.
 #   1 = List
