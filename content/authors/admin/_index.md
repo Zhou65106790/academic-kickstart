@@ -18,12 +18,12 @@ organizations:
   url: "https://www.ruc.edu.cn/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include E-commerce, Industrial Organization and Consumer Economics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- E-commerce
+- Industrial Organization
+- Consumer Economics
 
 education:
   courses:
@@ -41,15 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "zhoujiang1994@hotmail.com".
+  link: "zhoujiang1994@hotmail.com".
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+-icon: cv
+ icon_pack:ai
+ link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD candidate in Economics at Renmin University of China under the supervision of Mingming Shi. I am interested in 
+I am currently a PhD candidate in Economics at Renmin University of China under the supervision of Mingming Shi. I am interested in E-commerce, Industrial Organization and Consumer Economics.
