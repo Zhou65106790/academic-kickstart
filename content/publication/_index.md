@@ -1,6 +1,8 @@
 ---
 title: Consumer Heterogeneity and Online vs. Offline Retail Spatial Competition
-
+date: 
+publication_type: 2
+publication: Frontiers of Business Research in China
 
 # View.
 #   1 = List
